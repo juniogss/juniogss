@@ -31,4 +31,4 @@ Computer Scientist Student @PUCMG, Mobile Developer @Visuri, Full-Stack Develope
 ![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat&logo=android-studio)
 ![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-000000?style=flat&logo=visual-studio-code)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniogss)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniogss&show_icons=true&hide_border=true&layout=compact&theme=gotham)
