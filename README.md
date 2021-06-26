@@ -13,7 +13,6 @@
  ## Languages
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
