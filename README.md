@@ -4,7 +4,7 @@
 ### I'm Junio Gabriel
 
 <p align="left">
-  Computer Scientist Student @PUCMG, Mobile Developer @Visuri, Full-Stack Developer @ExactMiner
+  Computer Scientist Student @PUCMG, Android Developer @Inter, Mobile Developer @Visuri, Full-Stack Developer @ExactMiner
 </p>
 
 [![Linkedin](https://img.shields.io/badge/-Junio%20Gabriel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juniogss)
